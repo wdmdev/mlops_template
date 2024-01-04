@@ -42,3 +42,5 @@ git push
 ✅ Checking using `pre-commit` <img src="icons/precommit.svg" width="20" height="20">
 
 🛠️ CI with `Github actions` <img src="icons/githubactions.svg" width="20" height="20">
+
+⚙️ Configuration with `Hydra` <img src="icons/hydra.svg" width="20">
