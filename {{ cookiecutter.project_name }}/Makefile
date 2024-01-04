@@ -4,7 +4,7 @@
 # GLOBALS                                                                       #
 #################################################################################
 
-PROJECT_NAME = {{ cookiecutter.repo_name }}
+PROJECT_NAME = {{ cookiecutter.project_name }}
 PYTHON_VERSION = {{ cookiecutter.python_version_number }}
 PYTHON_INTERPRETER = python
 
